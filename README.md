@@ -95,7 +95,7 @@ rspec
 dropdown_spec.rb. Foi colocado o elemento "dropdown" dentro do arquivo do teste2, para que o desenvolvedor execute o projeto
 requerido**
 
-Para executar o seguindo projeto, execute o comando abaixo:
+Para executar (somente) o segundo projeto, execute o comando abaixo:
 ````shell
 rspec --tag @dropdown
 ````
