@@ -87,7 +87,7 @@ Capybara.javascript_driver = :headless_chrome
 
 ### Executando o Projeto
 Para executar o projeto, deverá abrir o terminal ou cmd na pasta onde está armazenado o projeto (se for no Windows - melhor 
-será colocar a pasta do projeto no C:/) e executar o seguinte comando abaixo:
+será colocar a pasta do projeto no C:\) e executar o seguinte comando abaixo:
 ````shell
 rspec
 ````
